@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1603984939 source:d:\acadamic studies\2020_2nd sem\pragramming\19_eng_074\gameproject_bouncingball\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+
